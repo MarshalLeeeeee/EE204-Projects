@@ -1,0 +1,2 @@
+1)a)  4000H - 4FFFFH
+      for U10 it takes the even address, for U11 it takes the odd address
